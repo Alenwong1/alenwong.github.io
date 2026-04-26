@@ -1,6 +1,6 @@
 ---
 title: "Introductory Reinforcement Learning"
-date: 2026-04-26
+date: 2026-04-25
 permalink: /posts/2026/04/introductory-reinforcement-learning/
 tags:
   - reinforcement learning

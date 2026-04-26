@@ -11,4 +11,8 @@ Welcome.
 
 I am Wong Pui Lun, and I currently work on reinforcement learning problems.
 
-Start reading here: [Blog](/year-archive/)
+Email: [wong.puilun@u.nus.edu](mailto:wong.puilun@u.nus.edu)
+
+GitHub: [Alenwong1](https://github.com/Alenwong1)
+
+Start reading here: [Blog]({{ '/year-archive/' | relative_url }})
