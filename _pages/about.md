@@ -9,4 +9,6 @@ redirect_from:
 
 Welcome.
 
+I am Wong Pui Lun, and I currently work on reinforcement learning problems.
+
 Start reading here: [Blog](/year-archive/)
